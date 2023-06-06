@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MovieApplication</string>
+    <string name="baseUrl">https://api.themoviedb.org/3/</string>
+    <string name="apitoken">eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI5YzJjNmQ3YTY3N2UyYjJiM2Y1YjRjOWI3NWNkZGZhMSIsInN1YiI6IjY0NmJlOTI3MmJjZjY3MDE3MmIyOWNmNCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.HbAf-P5wQswIlWXtI-zcttJnciJCiPBrPwG78DJ8kUg</string>
+</resources>
